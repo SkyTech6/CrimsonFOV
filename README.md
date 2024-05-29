@@ -17,8 +17,8 @@ EnableMod = true
 
 ## The desired field of view
 # Setting type: float
-# Default value: 90
-FieldOfView: 90
+# Default value: 60
+FieldOfView: 60
 ```
 ## Support
 

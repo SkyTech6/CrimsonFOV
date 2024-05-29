@@ -17,6 +17,6 @@ public readonly struct Settings
     {
         CONFIG = config;
         ENABLE_MOD = config.Bind("Config", "EnableMod", true, "Enable or disable the mod");
-        FIELD_OF_VIEW = config.Bind("Config", "FieldOfView", 90f, "The desired field of view");
+        FIELD_OF_VIEW = config.Bind("Config", "FieldOfView", 60f, "The desired field of view");
     }
 }
