@@ -6,6 +6,8 @@
 * Install [Bloodstone](https://github.com/decaprime/Bloodstone/releases/tag/v0.2.1)
 * Extract _CrimsonFOV.dll_ into _(VRising client folder)/BepInEx/plugins_
 
+* Run once to generate config, then change to desired value
+
 ## Configurable Values
 ```ini
 [CrimsonFOV Config File]
