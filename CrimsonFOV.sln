@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34902.65
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CrimsonFOV", "CrimsonFOV.csproj", "{2E5DE48B-9F10-46D4-83A6-8A73DF9AE5EE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2E5DE48B-9F10-46D4-83A6-8A73DF9AE5EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E5DE48B-9F10-46D4-83A6-8A73DF9AE5EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E5DE48B-9F10-46D4-83A6-8A73DF9AE5EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E5DE48B-9F10-46D4-83A6-8A73DF9AE5EE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {69CF3084-FA5C-4031-B493-4A7403660ED2}
+	EndGlobalSection
+EndGlobal
